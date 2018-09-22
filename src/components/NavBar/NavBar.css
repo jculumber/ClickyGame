@@ -1,0 +1,26 @@
+.navbar {
+    background: #5133a4;
+    min-height: 70px;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    color: #fff;
+    font-size: calc(10px + 14 * (100vw - 320px)/800);
+    z-index: 99;
+    white-space: nowrap;
+    line-height: 1.15;
+}
+
+nav {
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    color: #fff;
+    font-size: calc(10px + 14 * (100vw - 320px)/800);
+}
