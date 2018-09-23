@@ -2,6 +2,7 @@
     background: #5133a4;
     min-height: 70px;
     position: fixed;
+    top: 0;
     width: 100%;
     box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     color: #fff;

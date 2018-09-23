@@ -1,3 +1,8 @@
-.header {
-    
+.jumbotron {
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-HD-Chicago-Cubs-Images-PIC-WPE0011296.jpg");
+    width: 100%;
+}
+
+h1 {
+    font-size: 400%;
 }

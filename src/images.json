@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "Jon Lester",
+    "image": "https://www.gannett-cdn.com/-mm-/4acc5376b4a861f0bcf78c187385c7151dfac1ab/c=352-0-1102-750/local/-/media/2018/08/27/USATODAY/usatsports/usp_mlb-_new_york_mets_at_chicago_cubs.jpg?width=200&height=200&fit=crop",
+    "occupation": "Pitcher",
+    "location": "Wrigley Field"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "David Bote",
+    "image": "https://www.gannett-cdn.com/presto/2018/08/13/USAT/6cef909b-5751-4439-8ef7-591a4ca15d88-USP_MLB__Washington_Nationals_at_Chicago_Cubs.JPG?crop=2414,2414,x0,y0&width=200&height=200&fit=bounds",
+    "occupation": "3rd Base",
+    "location": "Wrigley Field"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Javier Baez",
+    "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://cubbiescrib.com/wp-content/blogs.dir/9/files/2015/11/javier-baez-mlb-chicago-cubs-photo-day.jpg&c=sc&w=200&h=200",
+    "occupation": "2nd Base",
+    "location": "Wrigley Field"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Joe Maddon",
+    "image": "https://lh3.googleusercontent.com/proxy/hqAc8SfAaNBt9vlXifpIgsBHAb3-klHnjChhZCJfi935K74R5_2RvC3rBu4EDyGxqo4K3l9D6oONN6jM-6wGC3l5729zFWUlvdGjv07EmurskJoEDcVxY34MZMMvxokBG_Dah1quzu5Av6oM=pf-w200-h200",
+    "occupation": "Manager",
+    "location": "Wrigley Field"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Ben Zobrist",
+    "image": "https://www.gannett-cdn.com/-mm-/e4620ef3d289d66eeecf865a55816c2dbd35fc48/c=0-63-1770-1833/local/-/media/2016/11/03/TennGroup/Nashville/636137521560666026-APTOPIX-World-Series-Buit.jpg?width=200&height=200&fit=crop",
+    "occupation": "Center Field",
+    "location": "Wrigley Field"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Anthony Rizzo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcgELJwYi1aF_YiHmI31ND6IJ3stGrrDp2rUcRMzPuSTAbS-PeA",
+    "occupation": "1st Base",
+    "location": "Wrigley Field"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Willson Contreras",
+    "image": "https://www.gannett-cdn.com/-mm-/40df792d7d1c1433b97f375e347fc4744f3a6679/c=0-159-680-839/local/-/media/2017/08/09/USATODAY/USATODAY/636379081245530319-USP-MLB-CHICAGO-CUBS-AT-SAN-FRANCISCO-GIANTS-92931647.JPG?width=200&height=200&fit=crop",
+    "occupation": "Catcher",
+    "location": "Wrigley Field"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Carl Edwards, Jr.",
+    "image": "https://www.gannett-cdn.com/-mm-/f398c6ccf7c2925a97731032e18c1a1a8b26c994/c=433-0-3896-3463/local/-/media/2018/06/28/IAGroup/DesMoines/636657912005636646-DSC-5675.jpg?width=200&height=200&fit=crop",
+    "occupation": "Pitcher",
+    "location": "Wrigley Field"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Kris Bryant",
+    "image": "http://media.chicagomag.com/Chicago-Magazine/April-2016/Eamus-Catuli/cubs-bryant.jpg",
+    "occupation": "3rd Base",
+    "location": "Wrigley Field"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Jason Heyward",
+    "image": "https://lh4.googleusercontent.com/proxy/mkivfrrlDQQz5Ss2caQN2lz6e-iGhkresy_0jBGtwloxZ2nZj9e8PPce14TYQZfhhWhw9lhUIOmXHSU7ITK8kF69b_Gw_U9ezHXeahe8kBAVlHLE_ebCSM48zFJ7nTIPIfK6kjZFwgh0xpJHBo18=pf-w200-h200",
+    "occupation": "Right Field",
+    "location": "Wrigley Field"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Kyle Schwarber",
+    "image": "https://www.gannett-cdn.com/-mm-/7dbba923256b0b7a1893eed994176dec5ac3dfb2/c=802-0-2558-1756/local/-/media/2018/02/26/USATODAY/usatsports/gty_921604332_97740896-e1519675699280.jpg?width=200&height=200&fit=crop",
+    "occupation": "Left Field",
+    "location": "Wrigley Field"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Kyle Hendricks",
+    "image": "https://pbs.twimg.com/profile_images/799053542061461508/ExwrvHkC_200x200.jpg",
+    "occupation": "Pitcher",
+    "location": "Wrigley Field"
   }
 ]

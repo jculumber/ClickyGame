@@ -1,3 +1,19 @@
 .footer {
-    
+    background: #6956af;
+    height: 100%;
+    position: relative;
+    bottom: 0;
+    color: #fff;
+    overflow: auto;
+    line-height: 1.15;
+    width: 100%;
+}
+
+footer {
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
 }
